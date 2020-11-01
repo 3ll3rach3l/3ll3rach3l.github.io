@@ -2517,7 +2517,7 @@ input, select, textarea {
 
 			.image.fill img {
 				height: 80%;
-				left: 0;
+				left: 30;
 				position: absolute;
 				top: 20;
 				width: 60%;
