@@ -2516,12 +2516,13 @@ input, select, textarea {
 		}
 
 			.image.fill img {
-				border-radius: 50%;
-				height: 80%;
+				
+				height: 95%;
 				left: 0;
 				position: absolute;
-				top: 0;
-				width: 60%;
+				top: 60px;
+				width: 100%;
+				padding: 100px;
 			}
 
 /* List */
