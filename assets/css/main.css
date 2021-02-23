@@ -2517,12 +2517,12 @@ input, select, textarea {
 
 			.image.fill img {
 				
-				height: 95%;
+				height: 100%;
 				left: 0;
 				position: absolute;
-				top: 60px;
-				width: 90%;
-				padding: 100px;
+				top: 0;
+				width: 100%;
+				
 			}
 
 /* List */
